@@ -21,7 +21,6 @@ The **IBM Data Science Professional Certificate** covered the following key area
 1. **Exploratory Data Analysis Project**: Performed data exploration and analysis on a real-world dataset using Python and Pandas.
 2. **Data Visualization Project**: Created visualizations using Matplotlib and Seaborn, focusing on storytelling through data.
 3. **Machine Learning Models**: Developed and evaluated machine learning models, including linear regression, classification, and clustering.
-4. **Capstone Project - SpaceX Launch Outcomes**: Applied machine learning techniques to predict SpaceX launch outcomes using historical data, leveraging IBM Watson Studio for data wrangling, visualization, and model building.
 
 ## Technologies and Tools Used
 
