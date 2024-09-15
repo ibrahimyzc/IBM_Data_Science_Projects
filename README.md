@@ -1,6 +1,6 @@
 # IBM Data Science Professional Certificate Projects
 
-This repository contains the projects I completed as part of the **IBM Data Science Professional Certificate** on Coursera. The certificate program provided a comprehensive introduction to data science concepts, tools, and techniques, with hands-on experience in data analysis, machine learning, and data visualization. Over the course of 10 modules, I gained proficiency in Python, SQL, data visualization, and machine learning.
+This repository contains the projects I completed as part of the **IBM Data Science Professional Certificate** on Coursera. The certificate program provided a comprehensive introduction to data science concepts, tools, and techniques, with hands-on experience in data analysis, machine learning, and data visualization.
 
 ## Certificate Overview
 
