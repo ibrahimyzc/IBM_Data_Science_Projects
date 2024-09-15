@@ -1,1 +1,33 @@
-# IBM_Data_Science_Projects
+# IBM Data Science Professional Certificate Projects
+
+This repository contains the projects I completed as part of the **IBM Data Science Professional Certificate** on Coursera. The certificate program provided a comprehensive introduction to data science concepts, tools, and techniques, with hands-on experience in data analysis, machine learning, and data visualization. Over the course of 10 modules, I gained proficiency in Python, SQL, data visualization, and machine learning.
+
+## Certificate Overview
+
+The **IBM Data Science Professional Certificate** covered the following key areas:
+- **What is Data Science?**
+- **Tools for Data Science**
+- **Data Science Methodology**
+- **Python for Data Science, AI & Development**
+- **Python Project for Data Science**
+- **Databases and SQL for Data Science with Python**
+- **Data Analysis with Python**
+- **Data Visualization with Python**
+- **Machine Learning with Python**
+- **Applied Data Science Capstone**
+
+## Projects Included in This Repository
+
+1. **Exploratory Data Analysis Project**: Performed data exploration and analysis on a real-world dataset using Python and Pandas.
+2. **Data Visualization Project**: Created visualizations using Matplotlib and Seaborn, focusing on storytelling through data.
+3. **Machine Learning Models**: Developed and evaluated machine learning models, including linear regression, classification, and clustering.
+4. **Capstone Project - SpaceX Launch Outcomes**: Applied machine learning techniques to predict SpaceX launch outcomes using historical data, leveraging IBM Watson Studio for data wrangling, visualization, and model building.
+
+## Technologies and Tools Used
+
+- **Python**: Core language used for all data science tasks, including data manipulation, visualization, and machine learning.
+- **Pandas and Numpy**: Used extensively for data manipulation and analysis.
+- **Matplotlib and Seaborn**: Libraries for creating data visualizations and plots.
+- **Scikit-learn**: For building and evaluating machine learning models.
+- **SQL**: For querying and managing databases in the data analysis phase.
+- **IBM Watson Studio**: A cloud-based platform used for performing data science tasks such as data wrangling, visualization, and machine learning in the capstone project.
